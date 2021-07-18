@@ -1,7 +1,7 @@
 ### Hi I am Uttam Roy
 ### I am a Front-End Developer and UI/UX Designer.
 ### I’m interested in Web Development.
-### I’m currently learning react and PHP.
+### I’m currently learning laravel.
 
 ## `Connect with me:`
 
