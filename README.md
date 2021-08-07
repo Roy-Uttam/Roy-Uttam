@@ -2,8 +2,9 @@
 ### I am a Front-End Developer and UI/UX Designer.
 ### I’m interested in Web Development.
 ### I’m currently learning laravel.
+</br>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;"></a></p>
-
+</br>
 ## `Connect with me:`
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
